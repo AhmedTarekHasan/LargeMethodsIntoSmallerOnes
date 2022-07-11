@@ -4,7 +4,7 @@
 ### Learn when splitting large methods into smaller ones makes the impossible possible.
 
 <p align="center">
-  <!--<img src="https://miro.medium.com/max/1400/1*wigBG8n81Nnht1rj_j1Dkw.jpeg">-->
+  <img src="https://miro.medium.com/max/1400/1*wigBG8n81Nnht1rj_j1Dkw.jpeg">
 </p>
 
 <br/>
