@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/why-split-large-methods-into-smaller-ones-7b71f26f8745?sk=96135ab1f0d7149aa26837c9f1f0b044" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/why-split-large-methods-into-smaller-ones" />
 
 # Why Split Large Methods Into Smaller Ones?!
 ### Learn when splitting large methods into smaller ones makes the impossible possible.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*wigBG8n81Nnht1rj_j1Dkw.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_395dcd40df254a27abdd027d222a4da5~mv2.png">
 </p>
 
 <br/>
@@ -71,4 +71,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/why-split-large-methods-into-smaller-ones-7b71f26f8745?sk=96135ab1f0d7149aa26837c9f1f0b044
+[Article]: https://www.developmentsimplyput.com/post/why-split-large-methods-into-smaller-ones
